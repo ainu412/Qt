@@ -1,0 +1,10 @@
+ExamSys app 1.0
+Copyright (C) 2020  
+Author:Jessica 
+
+This software is provided Jessica, without any express or implied
+warranty. In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+Thank you!
+Jessica
